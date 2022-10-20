@@ -1,0 +1,11 @@
+.t1 {
+    text-align: center;
+}
+body{ background-color: rgb(193, 204, 215);}
+
+.ex1 { background-color: blueviolet;}
+.t2 {text-align: end;}
+img {position: absolute;left: 85%;}
+.cor {background-color: darkred;}
+.t3 {text-align: justify;color: burlywood;}
+.t4 {letter-spacing: 10px;}
